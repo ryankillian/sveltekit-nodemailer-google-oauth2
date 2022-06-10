@@ -1,6 +1,6 @@
 # sveltekit with nodemailer and google oath2
 
-Basic email app for sending emails. Configured to use Google Oauth2.
+Basic email app for sending emails with gmail. Configured to use Google Oauth2.
 
 You will need an .env file with the following...
 
