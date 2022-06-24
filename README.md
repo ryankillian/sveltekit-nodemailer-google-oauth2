@@ -1,5 +1,7 @@
 # sveltekit with nodemailer and google oath2
 
+Deployed and tested on Vercel.
+
 Basic email app for sending emails with gmail. Configured to use Google Oauth2.
 
 You will need an .env file with the following...
